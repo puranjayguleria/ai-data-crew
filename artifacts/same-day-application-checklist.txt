@@ -1,0 +1,21 @@
+SAME-DAY APPLICATION CHECKLIST
+
+For every target:
+1) Open the demand page (write-for-us / placement / contributor / contact)
+2) Extract contact details
+3) Validate whether contact is strong:
+   - editor@
+   - named person
+   - official department email
+4) Choose template:
+   - contributor pitch
+   - placement offer
+5) Personalize first 2 lines to the target
+6) Include one concrete offer and turnaround
+7) Add portfolio link: https://puranjayguleria.github.io/ai-data-crew
+8) Send
+9) Track status
+10) Queue follow-up for 48h later
+
+Kill-fast rule:
+- If only a weak generic inbox appears and no alternate route exists, abandon in under 2 minutes.
