@@ -500,8 +500,8 @@
     "business": "",
     "status": "pitched",
     "contacted_at": "2026-04-19T05:12:57.015954Z",
-    "updated_at": "2026-04-19T05:12:57.015954Z",
-    "notes": "Pet grooming outreach personalized from website review"
+    "updated_at": "2026-04-19T12:15:42.880259Z",
+    "notes": "Pet grooming outreach personalized from website review | BBLUNT salon personalized pitch sent"
   },
   "{{result_of_find_emails_on_page_25.first_email}}": {
     "name": "",
@@ -582,5 +582,37 @@
     "contacted_at": "2026-04-19T10:10:22.910170Z",
     "updated_at": "2026-04-19T10:10:22.910170Z",
     "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
+  },
+  "{{result_of_find_emails_on_page_18.first_email}}": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T12:15:41.998451Z",
+    "updated_at": "2026-04-19T12:15:41.998451Z",
+    "notes": "Misfits gym personalized pitch sent for Instagram lead revival pack"
+  },
+  "{{result_of_find_emails_on_page_26.first_email}}": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T12:15:47.341875Z",
+    "updated_at": "2026-04-19T12:15:47.341875Z",
+    "notes": "Aakash coaching personalized pitch sent"
+  },
+  "{{result_of_find_emails_on_page_30.first_email}}": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T12:15:51.754284Z",
+    "updated_at": "2026-04-19T12:15:51.754284Z",
+    "notes": "Paid/publication pitch sent to StartupNews.fyi"
+  },
+  "care@aesl.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T12:53:52.028201Z",
+    "updated_at": "2026-04-19T12:53:52.028201Z",
+    "notes": "Sent: Quick idea to improve Aakash\u2019s admissions content on Instagr"
   }
 }
