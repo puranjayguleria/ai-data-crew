@@ -508,7 +508,79 @@
     "business": "",
     "status": "pitched",
     "contacted_at": "2026-04-19T05:12:57.093264Z",
-    "updated_at": "2026-04-19T05:12:57.093264Z",
-    "notes": "Bakery outreach personalized from website review"
+    "updated_at": "2026-04-19T09:12:32.590042Z",
+    "notes": "Bakery outreach personalized from website review | Enrich Salon personalized pitch for Instagram + GBP content"
+  },
+  "{{result_of_find_emails_on_page_23.first_email}}": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T09:12:32.523894Z",
+    "updated_at": "2026-04-19T09:12:32.523894Z",
+    "notes": "Resonance personalized pitch with coaching admissions content sample"
+  },
+  "{{result_of_find_emails_on_page_24.first_email}}": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T09:12:32.558667Z",
+    "updated_at": "2026-04-19T09:12:32.558667Z",
+    "notes": "Golds Gym personalized pitch for local content/social proof"
+  },
+  "hello@goldsgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:07:21.592459Z",
+    "updated_at": "2026-04-19T10:07:21.870795Z",
+    "notes": "Sent: Quick idea to help Gold\u2019s Gym locations convert more local e | Sent direct pitch for gym-specific content starter pack on Phase 36"
+  },
+  "afcgold@afcgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:08:18.802357Z",
+    "updated_at": "2026-04-19T10:08:18.802357Z",
+    "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
+  },
+  "afcandheri@afcgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:08:46.833886Z",
+    "updated_at": "2026-04-19T10:08:46.833886Z",
+    "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
+  },
+  "afcmahim@afcgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:09:04.689033Z",
+    "updated_at": "2026-04-19T10:09:04.689033Z",
+    "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
+  },
+  "afcsion@afcgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:09:35.250346Z",
+    "updated_at": "2026-04-19T10:09:35.250346Z",
+    "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
+  },
+  "afcplatinum@afcgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:10:03.072803Z",
+    "updated_at": "2026-04-19T10:10:03.072803Z",
+    "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
+  },
+  "afcdharavi2@afcgym.in": {
+    "name": "",
+    "business": "",
+    "status": "pitched",
+    "contacted_at": "2026-04-19T10:10:22.910170Z",
+    "updated_at": "2026-04-19T10:10:22.910170Z",
+    "notes": "Sent: Quick idea to help AFC Gym convert more local enquiries"
   }
 }
