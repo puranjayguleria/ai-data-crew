@@ -1,0 +1,21 @@
+MINI SEO AUDIT SAMPLE
+
+Business Type: Local Service Business
+
+1. Homepage headline is too generic
+Current messaging does not clearly mention the main service or target city. Recommendation: rewrite the H1 to include service + city for stronger relevance and conversion.
+
+2. Weak internal linking
+Important service pages are not prominently linked from the homepage. Recommendation: add clear internal links to top service pages in hero, body copy, and footer.
+
+3. Missing trust signals
+The page lacks visible review snippets, FAQs, and proof elements. Recommendation: add customer reviews, service guarantees, and location-specific FAQs to improve both trust and search performance.
+
+4. Google Business Profile opportunity
+Business should strengthen category selection, service descriptions, and image freshness. Recommendation: update profile weekly and align services with website copy.
+
+5. Quick-win priority order
+First: homepage headline rewrite
+Second: service page internal links
+Third: review and FAQ block
+These three changes usually produce the fastest improvement in local relevance and lead quality.
